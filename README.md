@@ -1,1 +1,5 @@
-# sta304_final_paper
+# starter_folder
+
+This repo....
+
+It is organised as follows...
